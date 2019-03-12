@@ -1,5 +1,5 @@
 # Event Sources
-This is our list of event sources that need scraping.
+This is our list of event sources that need scraping. `Event Sources` in **BOLD** are high priorities!
 
 If you want to claim working on one of the event sources, update this doc by adding your name to the `Owner` column. 
 
@@ -10,7 +10,7 @@ If you want to claim working on one of the event sources, update this doc by add
 |--- |--- |--- |--- |--- |--- |
 |Melissa|11th Street Bridge Park|https://www.bridgepark.org/events/calendar|Y|||
 ||Anacostia Riverkeeper|https://www.facebook.com/pg/AnacostiaRiverkeeper/events|||
-|An|Anacostia Watershed Society|https://www.anacostiaws.org/events-calendar.html|||
+|An|**Anacostia Watershed Society**|https://www.anacostiaws.org/events-calendar.html|||
 |Scott|Arlington County|https://environment.arlingtonva.us/events/|Y||Y|
 |Aimee|Audubon Naturalist|https://anshome.org/events-calendar/|Y||Y|
 |Jaspreet|Building Bridges Across the River (BBAR)|http://www.thearcdc.org/events/upcoming||||
@@ -25,9 +25,9 @@ If you want to claim working on one of the event sources, update this doc by add
 ||Little Falls Watershed Alliance|https://www.earthconservationcorps.org/events-1|https://www.lfwa.org/events|||
 |Scott|Montgomery County|https://www.montgomeryparks.org/calendar/|Y||Y|
 |Scott|National Park Service|https://www.nps.gov/subjects/developer/api-documentation.htm#/|Y||Y|
-|Dominic|Rock Creek Conservancy|https://www.rockcreekconservancy.org/what-we-do/upcoming-events|||
+|Dominic|**Rock Creek Conservancy**|https://www.rockcreekconservancy.org/what-we-do/upcoming-events|||
 |Kira|Siera Club|https://www.sierraclub.org/dc/calendar|Y|Use Chrome's network inspection to find the events API|Y|
-|Dominic|U.S. Arboretum/Friends of the National Arboretum|https://www.eventbrite.com/o/the-friends-of-the-national-arboretum-13276552841|||WIP|
+|Dominic|**U.S. Arboretum/Friends of the National Arboretum**|https://www.eventbrite.com/o/the-friends-of-the-national-arboretum-13276552841|||WIP|
 |Scott|U.S. Botanic Gardens|https://learn.usbg.gov/calendar/event|Y||WIP|
 |Scott|Virginia Native Plant Society|https://vnps.org/events/|Y||Y|
 |Ayan|Virginia The Nature Conservancy|https://www.nature.org/en-us/get-involved/how-to-help/volunteer-and-attend-events/find-local-events-and-opportunities/?r=United%20States&s=Virginia|There's an API you can hit|WIP||
